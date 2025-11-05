@@ -3,3 +3,5 @@
 !.obsidian/plugins
 .obsidian/plugins/*
 !.obsidian/plugins/obsidian-icon-folder
+
+/5etools/
