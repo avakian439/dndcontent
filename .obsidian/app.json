@@ -1,8 +1,0 @@
-{
-  "vimMode": false,
-  "userIgnoreFilters": [
-    "copilot/"
-  ],
-  "readableLineLength": false,
-  "propertiesInDocument": "source"
-}
