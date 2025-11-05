@@ -1,1 +1,1 @@
-[[Adult Brass Dragon]]
+THERE'S A BIG ASS [[Acolyte]] WATCH OUT
