@@ -1,2 +1,5 @@
 /copilot/
-.obsidian/
+.obsidian/*
+!.obsidian/plugins
+.obsidian/plugins/*
+!.obsidian/plugins/obsidian-icon-folder
