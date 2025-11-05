@@ -1,4 +1,8 @@
 ---
+banner: "![[Warcraft_concept_4.jpg]]"
+banner_y: 0.5
+---
+---
 type: metropolis
 location: sky
 function: hub, trade
