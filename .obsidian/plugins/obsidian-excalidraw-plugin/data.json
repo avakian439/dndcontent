@@ -121,7 +121,7 @@
   "defaultTrayMode": false,
   "compactModeOnTablets": true,
   "previousRelease": "2.16.1",
-  "showReleaseNotes": true,
+  "showReleaseNotes": false,
   "compareManifestToPluginVersion": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

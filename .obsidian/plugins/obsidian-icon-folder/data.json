@@ -35,9 +35,9 @@
     "useInternalPlugins": false
   },
   "Main Information/Cities/Outer Heaven/Outer Heaven.md": "LiBuilding",
-  "Main Information/Cities/Outer Heaven/Things/The Cloud's Edge.md": "LiBeer",
-  "Main Information/Cities/Outer Heaven/Things/The Wyvern's Roost.md": "LiBeer",
-  "Main Information/Cities/Outer Heaven/Things/The Grand Bazaar.md": "LiStore",
-  "Main Information/Cities/Outer Heaven/Things/The Adventurer's Guild Hall.md": "LiScroll",
-  "Main Information/Cities/Outer Heaven/Things/The Sky-Gardens.md": "LiScroll"
+  "Main Information/Cities/Outer Heaven/Places/The Cloud's Edge.md": "LiBeer",
+  "Main Information/Cities/Outer Heaven/Places/The Grand Bazaar.md": "LiStore",
+  "Main Information/Cities/Outer Heaven/Places/The Sky-Gardens.md": "LiScroll",
+  "Main Information/Cities/Outer Heaven/Places/The Wyvern's Roost.md": "LiBeer",
+  "Main Information/Cities/Outer Heaven/Places/The Adventurer's Guild Hall - Outer Heaven.md": "LiScroll"
 }
