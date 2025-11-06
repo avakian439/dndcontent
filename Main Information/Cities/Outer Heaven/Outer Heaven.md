@@ -2,7 +2,7 @@
 type: metropolis
 location: sky
 function: hub, trade
-banner: "Images/Warcraft_concept_4.jpg"
+banner: "Images/outerheaven.jpg"
 banner_y: 0.46286
 ---
 [[Outer Heaven]] is a magnificent **flying-fortress city**, a hub for adventurers everywhere to gather and share stories and forge new legends. It soars high above the clouds, a colossal marvel of ancient engineering and powerful magic.
