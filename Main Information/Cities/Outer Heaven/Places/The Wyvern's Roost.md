@@ -1,4 +1,5 @@
 ---
+type: tavern
 ---
 
 # Overview:

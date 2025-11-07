@@ -2,7 +2,6 @@
   "obsidian-git",
   "copilot",
   "obsidian-style-settings",
-  "obsidian-icon-folder",
   "obsidian-5e-statblocks",
   "obsidian-dice-roller",
   "initiative-tracker",
@@ -13,5 +12,7 @@
   "obsidian-admonition",
   "calendarium",
   "fantasy-name",
-  "fantasy-content-generator"
+  "fantasy-content-generator",
+  "obsidian-excalidraw-plugin",
+  "iconic"
 ]

@@ -1,4 +1,5 @@
 ---
+type: leisure
 ---
 
 [[The Sky-Gardens]] are a breathtaking testament to [[Outer Heaven]]'s blend of ancient magic and modern ingenuity. These aren't mere patches of green; they are sprawling, multi-tiered botanical wonders, magically sustained and meticulously cultivated. Lush, vibrant flora, some native to the highest mountain peaks and others conjured from distant planes, thrives under the open sky, their roots drawing sustenance from the Mythallar's ambient magic.
