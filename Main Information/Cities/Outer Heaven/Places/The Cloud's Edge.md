@@ -1,9 +1,4 @@
 ---
-type: tavern
-location: "[[Outer Heaven]]"
-patrons: adventurers, merchants, informants
-atmosphere: bustling, lively, slightly gritty
-specialty: strong ale, rumors, quests
 ---
 # Overview: 
 
@@ -22,6 +17,6 @@ A bustling, often rowdy tavern in [[Outer Heaven]], known for its potent ale an
 - **Private Booths:** A few secluded booths for more discreet conversations, though sound still carries.
 
 # [[Kaelen 'Ironhand' Stonefist |Barkeep Ironhand]]
-**Name:** Kaelen "Ironhand" Stonefist
+**Name:** [[Kaelen 'Ironhand' Stonefist]]
 
 **Description:** Kaelen is a gruff, broad-shouldered barkeep with grey-streaked red hair and a face etched with old scars, hinting at his legendary past. He runs [[The Cloud's Edge]] with a watchful eye, quick to quell trouble but a fount of hard-earned wisdom for earnest adventurers. He's a quiet observer, capable of offering cryptic advice or crucial information for those who earn his respect.

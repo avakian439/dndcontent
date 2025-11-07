@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiShipWheel",
+      "⁉",
+      "LiUser",
       "LiScroll",
-      "LiStore",
-      "LiBuilding",
-      "LiBeer",
-      "🏙"
+      "LiStore"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,10 @@
   "Main Information/Cities/Outer Heaven/Places/The Grand Bazaar.md": "LiStore",
   "Main Information/Cities/Outer Heaven/Places/The Sky-Gardens.md": "LiScroll",
   "Main Information/Cities/Outer Heaven/Places/The Wyvern's Roost.md": "LiBeer",
-  "Main Information/Cities/Outer Heaven/Places/The Adventurer's Guild Hall - Outer Heaven.md": "LiScroll"
+  "Main Information/Cities/Outer Heaven/Places/The Adventurer's Guild Hall - Outer Heaven.md": "LiScroll",
+  "Templates/NPC Template.md": "LiUser",
+  "Templates/Quest Template.md": "⁉",
+  "Main Information/Cities/Outer Heaven/Places/The Astral Anchorage.md": "LiShipWheel",
+  "Main Information/Cities/Outer Heaven/The Quest Board/Fading Heaven.md": "⁉",
+  "Main Information/Cities/Outer Heaven/The Quest Board/Crystalline Lament.md": "⁉"
 }

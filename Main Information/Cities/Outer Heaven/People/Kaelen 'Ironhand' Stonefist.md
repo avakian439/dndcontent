@@ -1,12 +1,57 @@
-**Name:** Kaelen "Ironhand" Stonefist
+---
+type: NPC
+name: Kaelen "Ironhand" Stonefist
+status: Alive
+race: Human
+gender: Male
+occupation: Barkeep
+alignment: Neutral Good
+aliases: Ironhand
+age: 55
+related: Elara 'Ironheart' Vancroft, The Cloud's Edge
+faction: Adventuring Community
+origin: Outer Heaven
+---
 
-**Description:** Kaelen is a gruff, broad-shouldered barkeep with grey-streaked red hair and a face etched with old scars. He runs [[The Cloud's Edge]] with a watchful eye, quick to quell trouble but a fount of hard-earned wisdom for earnest adventurers. He's a quiet observer, capable of offering cryptic advice or crucial information for those who earn his respect.
+> [!infobox|bg-c-brown]+
+> `VIEW[{name}]`
+> ![[ddTavernKeep.png|cover hsmall]]
+> 
+> |  |  |
+> | ---- | ---- |
+> | Status | `VIEW[{status}]` |
+> | Race | `VIEW[{race}]` |
+> | Gender | `VIEW[{gender}]` |
+> | Occupation | `VIEW[{occupation}]` |
+> | Alignment | `VIEW[{alignment}]` |
+> | Aliases | `VIEW[{aliases}]` |
+> | Age | `VIEW[{age}]` |
+> | Related to: | [[Elara 'Ironheart' Vancroft]] |
+> | Faction | `VIEW[{faction}]`|
+> | Origin | `VIEW[{origin}]` |
 
-**Background & History:**  
-Kaelen's moniker, "Ironhand," isn't just for show; it's a testament to his past as a formidable adventurer, a veteran warrior whose exploits are whispered in hushed tones among the older patrons of Outer Heaven. His scars tell tales of battles against monstrous beasts, daring dungeon delves, and skirmishes with ruthless bandits. While he rarely speaks of his adventuring days, the way he carries himself, the keen glint in his eyes, and his uncanny ability to anticipate trouble all betray a lifetime spent on the edge of danger. He retired from active adventuring years ago, seeking a quieter life, but found that the bustle of a tavern, especially one frequented by adventurers, kept him connected to the world he once dominated.
+### Appearance & Demeanor:
+*   **Key physical features:** Gruff, broad-shouldered, grey-streaked red hair, face etched with old scars.
+*   **Overall impression:** Watchful, quiet observer, capable of quelling trouble. Carries himself with the bearing of a veteran.
+*   **Voice and common mannerisms:** Man of few words, keen glint in his eyes, occasionally delivers dry wit with a knowing smirk.
 
-**Personality & Demeanor:**  
-Beneath his gruff exterior lies a deep well of experience and a surprising sense of loyalty. Kaelen is a man of few words, preferring to listen and observe. He has a dry wit that surfaces occasionally, often delivered with a knowing smirk. He has little patience for arrogance or foolishness but a soft spot for genuine courage and those who show potential. He's fiercely protective of his regulars and the integrity of his establishment.
+#### Personality & Quirks:
+*   **Personality traits:** Experienced, loyal, gruff but wise.
+*   **Likes, dislikes, and a memorable habit or quirk:** Likes genuine courage and potential, dislikes arrogance and foolishness. Fiercely protective of his regulars.
+*   **Core fear or weakness:** ???
 
-**Role in Outer Heaven:**  
-Beyond his duties as barkeep, Kaelen serves as a vital anchor in the adventuring community. He's a living legend, a source of both practical advice and cautionary tales. His tavern, [[The Cloud's Edge]], acts as an unofficial hub for information exchange, and Kaelen himself is often the first to hear about new threats, emerging opportunities, or the comings and goings of important figures.
+#### Background & Reputation:
+*   **Brief origin story or significant past event:** Former formidable adventurer, known as "Ironhand" from past exploits. Retired years ago seeking a quieter life.
+*   **How others generally perceive them:** A living legend, a reliable source of practical advice and cautionary tales.
+
+#### Goals & Motivations:
+*   **What they want most:** To maintain the integrity of his establishment and stay connected to the adventuring world.
+*   **What drives them:** Loyalty to his regulars, a sense of duty to the adventuring community.
+
+#### Connections & Resources:
+*   **Key allies or rivals:** His regulars, the broader adventuring community in Outer Heaven.
+*   **Notable possessions or skills:** Owns and runs [[The Cloud's Edge]]. A fount of hard-earned wisdom, uncanny ability to anticipate trouble, source of crucial information.
+
+#### Current Situation & Hooks:
+*   **What they are currently doing or struggling with:** Running [[The Cloud's Edge]], serving as an unofficial hub for information. Constantly dealing with minor troubles in the tavern.
+*   **A secret they keep or a potential way for players to get involved:** (DM to fill: Perhaps the true story behind his "Ironhand" moniker, or a specific past foe he's avoiding.) He's often the first to hear about new threats or opportunities, making him a prime quest-giver or information broker.

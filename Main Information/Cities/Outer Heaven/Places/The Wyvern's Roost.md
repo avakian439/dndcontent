@@ -1,9 +1,4 @@
 ---
-type: inn, eatery
-location: "[[Outer Heaven]]"
-patrons: veteran adventurers, wealthy merchants, nobles
-atmosphere: refined, discreet, comfortable
-specialty: fine spirits, gourmet meals, exclusive information
 ---
 
 # Overview:

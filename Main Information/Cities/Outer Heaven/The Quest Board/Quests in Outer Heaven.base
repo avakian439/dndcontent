@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "Quest"
+        - origin.contains("Outer Heaven")
+    order:
+      - file.name
+      - difficulty
+      - status
+      - location
+    columnSize:
+      file.name: 248

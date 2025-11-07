@@ -1,0 +1,4 @@
+.theme-light, .theme-dark {
+    --popover-width: 650px;
+    --popover-height: 300px;
+}

@@ -264,17 +264,79 @@
             "id": "ID_5b08faa88ada"
           }
         ],
-        "eras": []
+        "eras": [
+          {
+            "id": "ID_3bcab8482929",
+            "type": "era",
+            "name": "Adventuring",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1491
+            }
+          }
+        ]
       },
       "seasonal": {
-        "seasons": [],
+        "seasons": [
+          {
+            "id": "ID_68e8ea791bea",
+            "name": "Spring",
+            "color": "#b9d62c",
+            "type": "Dated",
+            "kind": "Spring",
+            "month": 3,
+            "day": 19,
+            "weatherOffset": 56,
+            "weatherPeak": 25
+          },
+          {
+            "id": "ID_48dbb979e96b",
+            "name": "Summer",
+            "color": "#357e1b",
+            "type": "Dated",
+            "kind": "Summer",
+            "month": 7,
+            "day": 20,
+            "weatherOffset": 56,
+            "weatherPeak": 25
+          },
+          {
+            "id": "ID_f92b98b86928",
+            "name": "Autumn",
+            "color": "#f1723b",
+            "type": "Dated",
+            "kind": "Autumn",
+            "month": 11,
+            "day": 21,
+            "weatherOffset": 56,
+            "weatherPeak": 25
+          },
+          {
+            "id": "ID_fa49c919ebea",
+            "name": "Winter",
+            "color": "#97cbfc",
+            "type": "Dated",
+            "kind": "Winter",
+            "month": 16,
+            "day": 20,
+            "weatherOffset": 56,
+            "weatherPeak": 25
+          }
+        ],
         "offset": 0,
-        "type": "Periodic",
+        "type": "Dated",
         "displayColors": true,
         "interpolateColors": true,
         "weather": {
           "enabled": true,
-          "seed": 373458942,
+          "seed": -1654981341,
           "tempUnits": "Metric",
           "windUnits": "Metric",
           "primaryWindDirection": "E",
@@ -282,7 +344,8 @@
         }
       },
       "locations": {
-        "locations": []
+        "locations": [],
+        "defaultLocation": "NONE"
       },
       "current": {
         "day": 1,
@@ -479,7 +542,7 @@
           }
         }
       ],
-      "id": "ID_78b8faaad9db",
+      "id": "ID_da6908ba696a",
       "categories": [
         {
           "name": "Natural Events",
@@ -491,13 +554,14 @@
           "id": "festivals",
           "color": "#9b2c2c"
         }
-      ]
+      ],
+      "hideEra": false
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_78b8faaad9db",
+  "defaultCalendar": "ID_da6908ba696a",
   "eventPreview": true,
   "exit": {
     "saving": false,

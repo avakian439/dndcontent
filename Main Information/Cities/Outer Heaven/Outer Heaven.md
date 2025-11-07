@@ -1,9 +1,5 @@
 ---
-type: metropolis
-location: sky
-function: hub, trade
-banner: "Images/outerheaven.jpg"
-banner_y: 0.46286
+banner: Images/outerheaven.jpg
 ---
 [[Outer Heaven]] is a magnificent **flying-fortress city**, a hub for adventurers everywhere to gather and share stories and forge new legends. It soars high above the clouds, a colossal marvel of ancient engineering and powerful magic.
 # Overview
@@ -13,6 +9,8 @@ This sprawling metropolis, sustained by a colossal **Mythallar**[^1], operates w
 As a beacon of free enterprise, [[Outer Heaven]] thrives. [[The Adventurer's Guild Hall - Outer Heaven|Guild Halls]] function as independent contracting agencies, while taverns like "[[The Cloud's Edge]]" and "[[The Wyvern's Roost]]" facilitate private deals and information exchange. Its vibrant bazaars offer goods and services. This safe haven is not governed, but *secured* by the voluntary actions and self-interest of the heroes it attracts, whose presence is its ultimate deterrent and guarantee of liberty.
 - - -
 # Places
+### Of high significance
+- **[[The Astral Anchorage]]**: Perched on the city's highest accessible platform, this bustling sky port is a marvel of arcane engineering. Here, specialized airships, reinforced with dimensional anchors and guided by experienced pilots and 'Aether-Navigators', prepare for journeys beyond the known realms. Massive, shimmering Portal Arches flicker with unstable energies, opening temporary gateways to other dimensions and distant planets. Adventurers come here to book passage, hire specialized crews, or seek out rare components for their own planar expeditions. It's a place of constant flux, filled with the hum of magic, the shouts of merchants, and the eager anticipation of those about to step into the unknown.
 ### Taverns
 - **[[The Cloud's Edge]]**: A bustling tavern known for its strong ale and even stronger rumors. Perfect for finding new quests or overhearing secrets.
 - **[[The Wyvern's Roost]]**: A more upscale inn and eatery, frequented by veteran adventurers and wealthy merchants. Good for high-paying contracts or discreet meetings.
@@ -26,3 +24,6 @@ As a beacon of free enterprise, [[Outer Heaven]] thrives. [[The Adventurer's Gui
 - **[[The Old Ballista Ramparts]]**: Remnants of the city's ancient defenses. Offers a vantage point, but also a place where old, forgotten mechanisms or hidden stashes might be found.
 
 [^1]: A _Mythallar_ is a magical device, typically represented similarly to a crystal ball, that converted raw magical power into energies that could be used by "quasimagical items" (meaning magical items that only functioned within the area-of-effect of a _Mythallar_) to manifest several magical effects at once.
+
+^e2bee3
+

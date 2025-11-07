@@ -98,28 +98,7 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [
-      {
-        "name": "Animal Lord; Forager (XMM)",
-        "initiative": 20,
-        "static": false,
-        "modifier": 19,
-        "hp": 323,
-        "currentMaxHP": 323,
-        "cr": "20",
-        "ac": 19,
-        "currentAC": 19,
-        "id": "ID_f8a888ca78bb",
-        "currentHP": 323,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "34d8 + 170"
-      }
-    ],
+    "creatures": [],
     "state": false,
     "name": null,
     "round": 1,

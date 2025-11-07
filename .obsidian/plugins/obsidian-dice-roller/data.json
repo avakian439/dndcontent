@@ -13,10 +13,10 @@
   "formulas": {},
   "defaultRoll": 1,
   "defaultFace": 100,
-  "renderer": false,
+  "renderer": true,
   "renderAllDice": false,
   "addToView": false,
-  "renderTime": 5000,
+  "renderTime": 2000,
   "colorfulDice": true,
   "scaler": 0.8,
   "diceColor": "#202020",
@@ -76,34 +76,5 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.4.2",
-  "viewResults": [
-    {
-      "result": "1",
-      "original": "1d6",
-      "resultText": "1d6\n[1]",
-      "timestamp": 1762346435097,
-      "id": "_E4qLABaPA3q"
-    },
-    {
-      "result": "14",
-      "original": "1d20",
-      "resultText": "1d20\n[14]",
-      "timestamp": 1762358673503,
-      "id": "llkvln9BTZ6y"
-    },
-    {
-      "result": "13",
-      "original": "1d20",
-      "resultText": "1d20\n[13]",
-      "timestamp": 1762358690463,
-      "id": "a_6ID8_QIgDs"
-    },
-    {
-      "result": "4937",
-      "original": "100d100",
-      "resultText": "100d100\n[34, 8, 46, 50, 4, 43, 72, 95, 86, 38, 95, 83, 90, 87, 86, 32, 61, 41, 10, 36, 30, 43, 83, 42, 89, 66, 77, 49, 37, 12, 36, 94, 81, 43, 35, 3, 89, 32, 1, 36, 58, 93, 3, 91, 54, 1, 56, 46, 61, 68, 34, 77, 56, 82, 8, 66, 74, 100, 86, 63, 9, 58, 1, 100, 53, 13, 42, 25, 31, 7, 82, 38, 21, 6, 73, 93, 11, 68, 48, 53, 88, 24, 10, 85, 75, 12, 5, 57, 18, 39, 55, 28, 16, 7, 50, 46, 75, 31, 34, 98]",
-      "timestamp": 1762358703225,
-      "id": "Edfj10QhwTI1"
-    }
-  ]
+  "viewResults": []
 }
