@@ -1,0 +1,95 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {},
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "dXFa7",
+      "name": "Quest Rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "is",
+          "value": "quest"
+        }
+      ],
+      "enabled": true,
+      "icon": "question-mark-glyph"
+    },
+    {
+      "id": "cZhjE",
+      "name": "NPC Rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "is",
+          "value": "NPC"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-user"
+    },
+    {
+      "id": "MkoxM",
+      "name": "Tavern Rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "is",
+          "value": "tavern"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-beer"
+    },
+    {
+      "id": "9x8eV",
+      "name": "City Rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "is",
+          "value": "city"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-building-2"
+    }
+  ],
+  "folderRules": []
+}

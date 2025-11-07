@@ -1,5 +1,9 @@
 /copilot/
 .obsidian/*
 !.obsidian/plugins
-.obsidian/plugins/*
-!.obsidian/plugins/obsidian-icon-folder
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/snippets
+.obsidian/plugins/copilot
+/5etools/
+.dnd-ui-toolkit-state.json
