@@ -1,6 +1,6 @@
 ---
 type: city
-banner: Images/outerheaven.jpg
+banner: "Images/outerheaven.jpg"
 
 ---
 ---
