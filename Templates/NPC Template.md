@@ -8,7 +8,9 @@ occupation: Merchant
 alignment: Lawful Good
 aliases: Iron
 age: 40
-related: Test
+related:
+  - "[[Elara 'Ironheart' Vancroft]]"
+  - "[[The Cloud's Edge]]"
 faction: Test
 origin: Outer Heaven
 ---

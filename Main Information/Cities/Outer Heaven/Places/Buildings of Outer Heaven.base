@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - type == "Building"
+        - type == "tavern"
+    order:
+      - file.name
+      - location
+      - faction
+      - owner
+    columnSize:
+      note.faction: 123

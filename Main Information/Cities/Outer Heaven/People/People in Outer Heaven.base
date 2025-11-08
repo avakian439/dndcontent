@@ -1,0 +1,30 @@
+filters:
+  and:
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "NPC"
+    order:
+      - file.name
+      - gender
+      - occupation
+      - race
+      - related
+      - alignment
+      - faction
+      - age
+      - status
+      - origin
+    sort:
+      - property: age
+        direction: DESC
+      - property: alignment
+        direction: DESC
+      - property: faction
+        direction: ASC
+    columnSize:
+      note.occupation: 142
+      note.origin: 130

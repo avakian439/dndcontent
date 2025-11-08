@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "copilot",
   "obsidian-style-settings",
   "obsidian-5e-statblocks",
   "obsidian-dice-roller",
@@ -14,5 +13,6 @@
   "fantasy-name",
   "fantasy-content-generator",
   "obsidian-excalidraw-plugin",
-  "iconic"
+  "iconic",
+  "smart-composer"
 ]

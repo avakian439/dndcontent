@@ -8,7 +8,7 @@ occupation: Adventurer's Guild Liaison / Veteran Adventurer
 alignment: Neutral Good
 aliases: Ironheart
 age: 45
-related: Kaelen 'Ironhand' Stonefist
+related: "[[Kaelen 'Ironhand' Stonefist]]"
 faction: The Adventurer's Guild - Outer Heaven
 origin: Outer Heaven
 ---
@@ -30,14 +30,17 @@ origin: Outer Heaven
 > | Faction | `VIEW[{faction}]`|
 > | Origin | `VIEW[{origin}]` |
 
-### Appearance & Demeanor:
+#### Appearance & Demeanor:
 *   **Key physical features:** Medium height with a lean, athletic build. Her dark, practical braid often falls over one shoulder, revealing a sharp, intelligent gaze from her steel-grey eyes. A faint, jagged scar runs along her jawline, a testament to past battles.
 *   **Overall impression:** Resolute and pragmatic, she carries herself with an air of quiet authority. She rarely smiles broadly, but her expressions are always genuine and direct.
 *   **Voice and common mannerisms:** Her voice is low and steady, carrying a hint of gravel from years of shouting commands over battle or wind. She often crosses her arms, observing situations with a critical, experienced eye.
 
 #### Personality & Quirks:
 *   **Personality traits:** Resilient, fiercely loyal, pragmatic, and a natural leader. She values honesty and courage above all else.
-*   **Likes, dislikes, and a memorable habit or quirk:** Likes strong coffee, well-maintained gear, and adventurers who know when to listen. Dislikes arrogance, unnecessary risks, and those who exploit the weak. She has a habit of tapping her fingers rhythmically when deep in thought, a subtle sign of her restless mind.
+*   **Likes, dislikes, and a memorable habit or quirk:** 
+	* Likes strong coffee, well-maintained gear, and adventurers who know when to listen. 
+	* Dislikes arrogance, unnecessary risks, and those who exploit the weak. 
+	* She has a habit of tapping her fingers rhythmically when deep in thought, a subtle sign of her restless mind.
 *   **Core fear or weakness:** Failing to protect those under her charge, or seeing good people fall due to her misjudgment.
 
 #### Background & Reputation:
@@ -50,7 +53,7 @@ origin: Outer Heaven
 
 #### Connections & Resources:
 *   **Key allies or rivals:** Her closest confidant and old friend is [[Kaelen 'Ironhand' Stonefist]], with whom she often shares a quiet drink at [[The Cloud's Edge]]. She has extensive contacts within [[The Adventurer's Guild Hall - Outer Heaven]] and a network of informants among the various airship crews and planar travelers.
-*   **Notable possessions or skills:** Wields a masterwork longsword, [["Heartseeker"]] which she rarely draws but keeps meticulously maintained. Possesses an encyclopedic knowledge of planar lore and monster weaknesses, and an uncanny ability to assess an adventurer's true capabilities.
+*   **Notable possessions or skills:** Wields a masterwork longsword, [[Heartseeker]] which she rarely draws but keeps meticulously maintained. Possesses an encyclopedic knowledge of planar lore and monster weaknesses, and an uncanny ability to assess an adventurer's true capabilities.
 
 #### Current Situation & Hooks:
 *   **What they are currently doing or struggling with:** Elara is currently overseeing the Guild's efforts to stabilize several newly discovered planar rifts, a task made more complex by the recent disappearance of a key expedition to Xylos (as per '[[Crystalline Lament]]' quest). She's struggling to find reliable teams willing to undertake such dangerous, dimension-hopping missions.

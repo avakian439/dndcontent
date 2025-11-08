@@ -89,6 +89,34 @@
       ],
       "enabled": true,
       "icon": "lucide-building-2"
+    },
+    {
+      "id": "TVtge",
+      "name": "Building Rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "contains",
+          "value": "Building"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-house"
+    },
+    {
+      "id": "o20Dy",
+      "name": "Weapon Rule",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "property:type",
+          "operator": "is",
+          "value": "weapon"
+        }
+      ],
+      "enabled": true,
+      "icon": "lucide-sword"
     }
   ],
   "folderRules": []

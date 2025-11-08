@@ -8,7 +8,9 @@ occupation: Barkeep
 alignment: Neutral Good
 aliases: Ironhand
 age: 55
-related: Elara 'Ironheart' Vancroft, The Cloud's Edge
+related:
+  - "[[Elara 'Ironheart' Vancroft]]"
+  - "[[The Cloud's Edge]]"
 faction: Adventuring Community
 origin: Outer Heaven
 ---
@@ -30,14 +32,17 @@ origin: Outer Heaven
 > | Faction | `VIEW[{faction}]`|
 > | Origin | `VIEW[{origin}]` |
 
-### Appearance & Demeanor:
+#### Appearance & Demeanor:
 *   **Key physical features:** Gruff, broad-shouldered, grey-streaked red hair, face etched with old scars.
 *   **Overall impression:** Watchful, quiet observer, capable of quelling trouble. Carries himself with the bearing of a veteran.
 *   **Voice and common mannerisms:** Man of few words, keen glint in his eyes, occasionally delivers dry wit with a knowing smirk.
 
 #### Personality & Quirks:
 *   **Personality traits:** Experienced, loyal, gruff but wise.
-*   **Likes, dislikes, and a memorable habit or quirk:** Likes genuine courage and potential, dislikes arrogance and foolishness. Fiercely protective of his regulars.
+*   **Likes, dislikes, and a memorable habit or quirk:** 
+	* Likes genuine courage and potential. 
+	* Dislikes arrogance and foolishness. 
+	* Fiercely protective of his regulars.
 *   **Core fear or weakness:** ???
 
 #### Background & Reputation:

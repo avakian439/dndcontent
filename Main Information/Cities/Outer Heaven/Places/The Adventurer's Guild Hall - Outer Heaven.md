@@ -1,12 +1,12 @@
 ### The Adventurer's Guild Hall - Outer Heaven
 
-# Overview:
+#### Overview:
 The Adventurer's Guild Hall in [[Outer Heaven]] is the bustling heart of the city's mercenary and exploration scene. It serves as the primary hub for adventurers seeking work, registering their deeds, and finding camaraderie (or rivalry) among their peers.
 
 Atmosphere & Reputation:
 The Hall is a cacophony of clanking armor, boisterous laughter, hushed negotiations, and the scratching of quills. It's a place where fresh-faced novices nervously eye the quest board alongside grizzled veterans swapping tales of daring feats. Its reputation is generally solid; the Guild pays reliably, offers a wide range of contracts, and provides a measure of protection for its members. However, some view it as a bureaucratic necessity, while others whisper of its hidden agendas or the occasional "disappearance" of adventurers on particularly dangerous contracts.
 
-# Key Services & Facilities:
+#### Key Services & Facilities:
 
 *   **The Grand Quest Board:** A massive oak board dominating the common room, constantly updated with contracts ranging from simple monster hunts and escort missions to complex investigations and dungeon delves. Quests are color-coded by difficulty and reward.
 *   **The Ironclad Armory:** A well-stocked shop run by **Grizelda 'Forgeheart' Stonebrow**, offering standard adventuring gear, weapons, armor, and repair services. She also deals in rare components for custom work.

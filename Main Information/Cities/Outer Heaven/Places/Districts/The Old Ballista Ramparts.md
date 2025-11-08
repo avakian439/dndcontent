@@ -1,0 +1,1 @@
+Remnants of the city's ancient defenses. Offers a vantage point, but also a place where old, forgotten mechanisms or hidden stashes might be found.

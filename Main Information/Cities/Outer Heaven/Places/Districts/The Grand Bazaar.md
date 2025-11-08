@@ -1,0 +1,1 @@
+A sprawling market district where exotic goods, rare components, and skilled artisans can be found. Ideal for resupplying, identifying magic items, or tracking down a specific vendor.

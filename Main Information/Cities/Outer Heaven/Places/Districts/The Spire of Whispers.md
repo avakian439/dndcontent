@@ -1,0 +1,1 @@
+One of the ancient, towering stone spires, now home to various arcane scholars and seers. Useful for research, divinations, or seeking cryptic advice.
