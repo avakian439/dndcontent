@@ -24,7 +24,7 @@ Describe the sensory experience of being in this district.
 What are the most important or interesting aspects of this district?
 *   **Sky Port Platforms**: Vast, multi-tiered platforms where specialized airships dock, load passengers and cargo, and prepare for departure into the planar void.
 *   **[[Portals|Portal Arches]]**: Massive, shimmering gateways that flicker with unstable energies, opening temporary passages to other dimensions and distant planets. These are the most awe-inspiring and dangerous features of the Anchorage.
-*   **Aether-Navigator's Guildhall**: The central hub for experienced pilots and '[[Aether-Navigator|Aether-Navigators]]' who possess the unique skills and arcane knowledge to guide ships through planar anomalies and unstable dimensional currents.
+*   **Aether-Navigator's Guildhall**: The central hub for experienced pilots and '[[Aether#^11d0b8|Aether-Navigators]]' who possess the unique skills and arcane knowledge to guide ships through planar anomalies and unstable dimensional currents.
 *   **The Planar Market**: A bustling collection of stalls and shops where adventurers can book passage, hire specialized crews, and seek out rare components, exotic goods, and peculiar artifacts from across the planes.
 
 #### Economy & Trade:

@@ -37,7 +37,7 @@ key_districts: "The Astral Anchorage, The Grand Bazaar, The Under-City Conduits,
     *   **[[The Sky-Gardens]]:** Lush, magically sustained parks.
     *   **[[The Old Ballista Ramparts]]:** Remnants of ancient defenses.
 *   **Landmarks:** 
-	* [[The Spire of Whispers]] (ancient, towering stone spire).
+	* **[[The Spire of Whispers]]:** (ancient, towering stone spire).
 *   **Important Buildings:**
     *   **[[The Adventurer's Guild Hall - Outer Heaven]]:** Central hub for registered adventurers.
     *   **[[The Cloud's Edge]]:** Bustling tavern for quests and rumors.
