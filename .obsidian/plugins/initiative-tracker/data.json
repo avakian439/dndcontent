@@ -262,12 +262,14 @@
             "size"
           ],
           "options": [
-            "small",
-            "medium",
             "large",
+            "medium",
             "huge",
             "gargantuan",
-            "tiny"
+            "small",
+            "tiny",
+            "unknown",
+            "small or medium"
           ],
           "id": "ID_DEFAULT_SIZE_FILTER",
           "derive": true
@@ -279,8 +281,6 @@
             "type"
           ],
           "options": [
-            "beast",
-            "fiend",
             "aberration",
             "humanoid",
             "dragon",
@@ -288,7 +288,9 @@
             "elemental",
             "monstrosity",
             "construct",
+            "beast",
             "plant",
+            "fiend",
             "ooze",
             "fey",
             "giant",
@@ -305,8 +307,6 @@
             "alignment"
           ],
           "options": [
-            "unaligned",
-            "neutral evil",
             "lawful evil",
             "any alignment",
             "chaotic evil",
@@ -314,8 +314,10 @@
             "lawful good",
             "neutral",
             "lawful neutral",
+            "unaligned",
             "any non-good alignment",
             "any non-lawful alignment",
+            "neutral evil",
             "any chaotic alignment",
             "neutral good",
             "chaotic neutral",
