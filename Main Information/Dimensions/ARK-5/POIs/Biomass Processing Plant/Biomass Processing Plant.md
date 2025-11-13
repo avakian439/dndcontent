@@ -11,7 +11,7 @@
     - **Scents:** A mix of chemical preservatives, sour decay, burning protein, and hot metal.
     - **General Feel:** Functional but decayed — like an abandoned factory that never stopped running.
 #### Key Features & Layout:
-- ·         **1) Intake Gantry**  
+·         **1) Intake Gantry**  
 The arrival point for harvested biomass; now mostly empty. A few dried specimens lie caught in metal cages.
 
 ·         **2) Enzyme Baths**  
