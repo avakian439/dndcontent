@@ -6,7 +6,7 @@ race: Human
 gender: Female
 occupation: Proprietor
 alignment: Lawful Neutral
-aliases: The Silent Broker
+aliases:
 age: 48
 related: "[[The Wyvern's Roost]]"
 faction: Independent

@@ -1,1 +1,0 @@
-The labyrinthine network beneath the streets where the Mythallar's energy flows. Dangerous, often restricted, but might hold forgotten secrets or hidden passages.
