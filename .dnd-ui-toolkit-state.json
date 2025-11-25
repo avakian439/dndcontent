@@ -16,12 +16,12 @@
     "din_health": {
       "current": 24,
       "temporary": 0,
-      "hitdiceUsed": 0,
+      "hitdiceUsed": 2,
       "deathSaveSuccesses": 0,
       "deathSaveFailures": 0
     },
     "din_spells_1": {
-      "value": 0
+      "value": 4
     },
     "din_spell_2": {
       "value": 0
@@ -40,6 +40,84 @@
     },
     "din_items__ring_of_investigation": {
       "value": 0
+    },
+    "Scratch_hp": {
+      "current": 28,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "Scratch_spells_1": {
+      "value": 0
+    },
+    "Scratch_sneak_attack": {
+      "value": 0
+    },
+    "din_luck_spell_1": {
+      "value": 0
+    },
+    "action_surge": {
+      "value": 0
+    },
+    "bardic_inspiration": {
+      "value": 0
+    },
+    "forest_encounter": {
+      "activeIndex": 2,
+      "initiatives": {
+        "0": 0,
+        "1": 0,
+        "2": 0
+      },
+      "hp": {
+        "0": {
+          "main": 45
+        },
+        "1": {
+          "main": 28
+        },
+        "2": {
+          "main": 21
+        }
+      },
+      "round": 4,
+      "consumables": {}
+    },
+    "s_health": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "sc_health": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "z_health": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "ze_health": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
+    },
+    "zen_health": {
+      "current": 24,
+      "temporary": 0,
+      "hitdiceUsed": 0,
+      "deathSaveSuccesses": 0,
+      "deathSaveFailures": 0
     }
   }
 }
