@@ -1,3 +1,3 @@
 #### Derelict Security Drone
-**Pulse Grenade 
+*  **Pulse Grenade 
 
