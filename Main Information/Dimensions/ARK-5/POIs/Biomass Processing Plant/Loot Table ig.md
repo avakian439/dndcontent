@@ -1,2 +1,3 @@
 #### Derelict Security Drone
-**EMP Grenade
+**Pulse Grenade 
+
