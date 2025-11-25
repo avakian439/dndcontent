@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"08132911d8cdc2a0","type":"file","file":"Pasted image 20251124203142.jpg","x":-600,"y":-300,"width":225,"height":400},
-		{"id":"2e608ffe8a2a857f","x":-280,"y":-12,"width":400,"height":225,"type":"file","file":"Dust City Slums Grid.mp4"}
+		{"id":"2bd44c851c7dc039","type":"file","file":"Pasted image 20251125192757.jpg","x":-1040,"y":-300,"width":225,"height":400},
+		{"id":"96a7bcc1f73eb2a5","type":"text","text":"party enters from here","x":-840,"y":400,"width":250,"height":60},
+		{"id":"08132911d8cdc2a0","type":"file","file":"Pasted image 20251124203142.jpg","x":-760,"y":-460,"width":440,"height":782}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3e61f63059e51b04","fromNode":"96a7bcc1f73eb2a5","fromSide":"top","toNode":"08132911d8cdc2a0","toSide":"bottom"}
+	]
 }
