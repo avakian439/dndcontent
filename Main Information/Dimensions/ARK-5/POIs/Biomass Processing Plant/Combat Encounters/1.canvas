@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"08132911d8cdc2a0","type":"file","file":"Pasted image 20251124203142.jpg","x":-600,"y":-300,"width":225,"height":400},
-		{"id":"2e608ffe8a2a857f","x":-280,"y":-12,"width":400,"height":225,"type":"file","file":"Dust City Slums Grid.mp4"}
+		{"id":"08132911d8cdc2a0","type":"file","file":"Pasted image 20251124203142.jpg","x":-600,"y":-300,"width":225,"height":400}
 	],
 	"edges":[]
 }
