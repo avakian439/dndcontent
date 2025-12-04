@@ -1,5 +1,9 @@
 /copilot/
+.obsidian/*/*
+.obsidian/*/*/*
 .obsidian/*
+.obsidian
+.obsidian/plugins/*
 /5etools/
 .dnd-ui-toolkit-state.json
 .smtcmp_json_db
