@@ -1,11 +1,5 @@
 /copilot/
 .obsidian/*
-!.obsidian/plugins
-!.obsidian/community-plugins.json
-!.obsidian/core-plugins.json
-!.obsidian/snippets
-.obsidian/plugins/copilot
-.obsidian/plugins/smart-composer
 /5etools/
 .dnd-ui-toolkit-state.json
 .smtcmp_json_db
