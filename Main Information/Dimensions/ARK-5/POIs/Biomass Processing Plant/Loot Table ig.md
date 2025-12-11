@@ -13,3 +13,5 @@ Burst: fire three shots at the cost of accuracy, deal damage three times with a 
 Single: fire one shot with increased control, deal damage once with a +2 bonus to damage.
 
 A very compact and strange rifle, nothing magical about it. 
+* **EM Handgun**
+Weapon (ranged firearm), requires a minimum of 14 INT to operate, range: 10/180 ft., two-handed, damage: 1 d 10 piercing + 1 d 6 lighting.
