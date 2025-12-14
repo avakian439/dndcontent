@@ -64,7 +64,7 @@ _Armor (medium), uncommon_
 
 This reinforced torso plating was once integrated into an Elysian enforcer’s frame. Its surface is scarred with energy burns and deep impact grooves.
 
-- AC **14 + Dex (max 2)**
+- AC **15 + Dex (max 2)**
     
 - While wearing this armor, **reduce nonmagical bludgeoning, piercing, and slashing damage by 2**.
     
