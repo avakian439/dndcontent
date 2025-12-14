@@ -38,7 +38,7 @@ After the fight, the enforcer collapses in a shower of sparks. Its systems flick
 _Wondrous item, uncommon amulet_ 
 A volatile energy core fragment recovered before total detonation. It crackles with unstable charge.
 
-When you are reduced to 0 HP the fragment discharges dealing *2d10 lightning damage* to creatures within 5 feet (Dex save DC 13 for half).
+When you are reduced to 0 HP the fragment discharges dealing *2d10 lightning damage* to creatures within 5 feet (DEX save DC 13 for half).
 
 * **Impulse Staff**
 _Wondrous item, uncommon staff (requires attunement)_
@@ -56,7 +56,7 @@ A wrist-mounted launcher salvaged from the enforcer’s arm, rewired for manual 
 **Damage:** 1d8 lightning  
 **Properties:** Reload 1
 
-This weapon does not occupy any hands, the launcher may be fired as a bonus action. On a hit, the target must succeed on a DC 13 Strength saving throw or be restrained until the end of its next turn.  
+This weapon does not occupy any hands, the launcher may be fired as a bonus action. On a hit, the target must succeed on a DC 13 STR saving throw or be restrained until the end of its next turn.  
 Once used, the launcher must be reloaded as an action.
 
 * **Composite Plate Harness**
@@ -64,7 +64,7 @@ _Armor (medium), uncommon_
 
 This reinforced torso plating was once integrated into an Elysian enforcer’s frame. Its surface is scarred with energy burns and deep impact grooves.
 
-- AC **15 + Dex (max 2)**
+- AC **15 + DEX (max 2)**
     
 - While wearing this armor, **reduce nonmagical bludgeoning, piercing, and slashing damage by 2**.
     
