@@ -18,3 +18,8 @@ A very compact and strange rifle, nothing magical about it.
 * **EM Handgun**
 ![[Pasted image 20251214192518.png]]
 Weapon (ranged firearm), requires a minimum of 14 INT to operate, range: 10/180 ft., two-handed, damage: 1 d 10 piercing + 1 d 6 lighting.
+
+#### Derelict Forester Drone
+* **Industrial Saw Arm** 
+This heavy mechanical arm ends in a circular industrial saw, its teeth dulled by decades of cutting through metal, bone, and reinforced biomass. Thick hydraulic lines and magnetic clamps line the housing, allowing it to anchor into machinery or be wielded with effort.
+
