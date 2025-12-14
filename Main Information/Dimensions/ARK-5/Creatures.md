@@ -7,4 +7,7 @@
 # Forester Drone
 ![[silvdr.png]]
 
+# Transport Drone
+![[cargodr.jpg]]
+
 # Placeholder
