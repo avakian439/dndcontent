@@ -19,7 +19,7 @@ professional artist rendition of a security enforcer ^QrC4x3GC
 ## Embedded Files
 c083bad37e37366edeb425677abf031dfbb8b98c: [[Cores Grid.jpg]]
 
-8e3c0e2125b520ecfe0e63d6bb301d6ae01de1d1: [[download.jpg]]
+8e3c0e2125b520ecfe0e63d6bb301d6ae01de1d1: [[secenf.jpg]]
 
 7a2437b1b0f6ad726ae17fad19e20aaebe44a7d1: [[{7FD07FDA-F4C3-42A2-A708-BBAA7EFE1AA8}.png]]
 
