@@ -5,3 +5,6 @@
 ![[secenf.jpg]]
 
 # Forester Drone
+![[silvdr.png]]
+
+# Placeholder

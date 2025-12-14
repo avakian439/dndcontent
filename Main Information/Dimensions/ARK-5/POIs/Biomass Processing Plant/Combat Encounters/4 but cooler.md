@@ -21,7 +21,7 @@ upon entering the party hears pitter pattering from beneath them on a DC 10 perc
 ## Embedded Files
 67a0b405a24bdc1b6a3a82e3d397cab5af931d4a: [[Depths_Ruiner Grid.jpg]]
 
-8669a077011246bcfd17b2b3d770e2b130c274cc: [[Pasted Image 20251215010203_816.png]]
+8669a077011246bcfd17b2b3d770e2b130c274cc: [[silvdr.png]]
 
 7a2437b1b0f6ad726ae17fad19e20aaebe44a7d1: [[{7FD07FDA-F4C3-42A2-A708-BBAA7EFE1AA8}.png]]
 
