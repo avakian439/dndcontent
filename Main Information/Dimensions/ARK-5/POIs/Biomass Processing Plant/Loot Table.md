@@ -10,7 +10,7 @@ It’s a +1 club that deals an additional *1d4 lighting damage*. Target must suc
 
 * **EM Carbine**
 ![[{F8D16102-EF8E-49AC-8531-DC9F406CA1ED}.png]]
-Weapon (ranged firearm), requires a minimum of 14 INT to operate, range: 10/270 ft., two-handed, damage: *1d10 piercing* + *1d6 lighting*. The wielder of this weapon may choose between the following firing modes
+Weapon (ranged firearm), requires a minimum of 14 INT to operate, range: 150/270 ft., two-handed, damage: *1d10 piercing* + *1d6 lighting*. The wielder of this weapon may choose between the following firing modes
 Burst: fire three shots at the cost of accuracy, deal damage three times with a -3 hit penalty.
 Single: fire one shot with increased control, deal damage once with a +2 bonus to damage.
 
