@@ -51,7 +51,7 @@ Few know it remains active — and the “cathedral” appearance has given rise
 
 ·         **Nemamiah (Malakhim Elysian):**  
 An early-stage sapient researcher.  
-Curious, analytical, and oddly gentle. Fascinated by new biological inputs (the party). They guide, test, and ultimately try to speak with the PCs, requesting help awakening the Throne.
+Curious, analytical, and oddly gentle. Fascinated by new biological inputs (the party). They appear to have fallen into quite a predicament after one of their experiments has gone awry, thus they request the party’s assistance.
 
 **Motivation:** Understand this new variable (the party) and fulfill what they _believe_ is their duty.
 
@@ -61,13 +61,13 @@ Curious, analytical, and oddly gentle. Fascinated by new biological inputs (the 
 
 ·         The lab is partially online, pursuing fragmented research directives.
 
-·         Nemamiah monitors the party as they intrude and evaluates them through experiments.
+·         Nemamiah monitors the party as they intrude.
 
 ·         Rumors speak of an artifact deep within: a seed-vault containing living genomes of extinct beasts.
 
 **Hooks:**
 
-·         Nemamiah seeks help “reawakening” the Throne (though their understanding is flawed).
+·         After being freed, Nemamiah seeks help “reawakening” the Throne (though their understanding is flawed).
 
 ·         PCs may extract genetic artifacts of extreme value.
 
