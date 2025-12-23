@@ -1,3 +1,3 @@
 As the party enters the lab they receive a ~~skype call~~ telepathic message from deeper within, the voice doesn’t sound distressed but requests their assistance nonetheless. Apparently an experiment has gone awry and the ~~caller~~ researcher is being held hostage on one of the lower levels. 
 While inside the lab the voice is omnipresent so the party may ask anything at any time.
-After rescuing them the researcher asks for the party’s assistance again, offering a proper reward obviously. It seems the tunnel that connects the lab with the maintenance shaft has been clogged, thus maintenance drones cannot reach 
+After rescuing them the researcher asks for the party’s assistance again, offering a proper reward obviously. It seems the tunnel that connects the lab with the maintenance shaft has been clogged, thus maintenance drones cannot reach the lab. 
