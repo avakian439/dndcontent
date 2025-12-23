@@ -1,0 +1,1 @@
+As the party enters the lab they receive a ~~skype call~~ telepathic message from deeper within, the voice doesn’t sound distressed but requests their assistance nonetheless. Apparently an experiment has gone awry and the ~~caller~~ researcher is being held hostage on one of the lower levels. 
