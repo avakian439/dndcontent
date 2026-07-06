@@ -30,17 +30,17 @@ Players must stand adjacent to a console to calibrate its corresponding tower.
 
 # Objective
 
-The encounter ends immediately once every tower possesses the same number of charges.
+The encounter ends immediately once every tower possesses the same number of charges for 1 round.
 
 Valid synchronized states include
 
 ```
-0 0 0 01 1 1 12 2 2 23 3 3 3
+0 0 0 0  1 1 1 1  2 2 2 2  3 3 3 3
 ```
 
 Although in practice the encounter will almost always finish at **1** or **2** charges because towers at 3 immediately become hazardous.
 
-Victory is checked after all end-of-round tower effects resolve.
+Victory is checked after all end-of-round tower effects resolve at the start of next turn. (if at the start of next round all towers have the same charge level encounter is complete)
 
 ---
 
@@ -48,12 +48,12 @@ Victory is checked after all end-of-round tower effects resolve.
 
 The towers always begin with the following charge values.
 
-|Tower|Charges|
-|---|---|
-|T 1|0|
-|T 2|2|
-|T 3|1|
-|T 4|0|
+| Tower | Charges |
+| ----- | ------- |
+| T 1   | 3       |
+| T 2   | 0       |
+| T 3   | 3       |
+| T 4   | 0       |
 
 Players can immediately begin calibrating.
 
