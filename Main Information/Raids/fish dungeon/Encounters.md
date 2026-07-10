@@ -168,8 +168,14 @@ Break all **3 crystals** → the barrier dissolves → the path forward opens. T
 # Encounter 2
 
 3 eyes
-3 bells
+3 bells that are inert (cant be activated)
 Eyes begin closed
 1 opens, spotlights a player, player stunned 
+Bells can now be activated
+Other players must push stunned player to corresponding bell and activate it
+Player loses stun and the respective eye becomes stunned
+Repeat until all eyes are stunned
+When all eyes are stunned they clear their stun and remain open to attack the party normally
+Damage phase begins, all eyes share the same health pool so AoE attacks can do huge damage
 
 # Encounter 3
