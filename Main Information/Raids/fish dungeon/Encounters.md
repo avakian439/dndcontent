@@ -167,6 +167,9 @@ Break all **3 crystals** → the barrier dissolves → the path forward opens. T
 
 # Encounter 2
 
-
+3 eyes
+3 bells
+Eyes begin closed
+1 opens, spotlights a player, player stunned 
 
 # Encounter 3
